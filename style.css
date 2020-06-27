@@ -1,0 +1,9 @@
+.keyframes {
+    animation-name: ajith;
+    animation-duration: 5s;
+}
+
+@keyframes ajith {
+    from{ transform: translateX(0);}
+    to{ transform: translateX(50%);}
+}
